@@ -1,4 +1,4 @@
-# Omicron
+# Throwing
 A prototype I made in a limited time for game mechanics and UI developments.<br>
 Unity version : 2020.3.27<br>
 
